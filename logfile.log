@@ -1,0 +1,32 @@
+2023-04-27 22:29:51,021 : INFO : test_formSubmission : email is test1@gmail.com
+2023-04-27 22:29:51,124 : INFO : test_formSubmission : name is demo1
+2023-04-27 22:29:51,173 : INFO : test_formSubmission : gender is Male
+2023-04-27 22:29:51,591 : INFO : test_formSubmission : email is test2@gmail.com
+2023-04-27 22:29:51,591 : INFO : test_formSubmission : email is test2@gmail.com
+2023-04-27 22:29:51,679 : INFO : test_formSubmission : name is demo2
+2023-04-27 22:29:51,679 : INFO : test_formSubmission : name is demo2
+2023-04-27 22:29:51,730 : INFO : test_formSubmission : gender is Female
+2023-04-27 22:29:51,730 : INFO : test_formSubmission : gender is Female
+2023-04-27 22:30:18,041 : INFO : test_e2e : Getting all card titles.......
+2023-04-27 22:30:18,060 : INFO : test_e2e : iphone X
+2023-04-27 22:30:18,069 : INFO : test_e2e : Samsung Note 8
+2023-04-27 22:30:18,076 : INFO : test_e2e : Nokia Edge
+2023-04-27 22:30:18,083 : INFO : test_e2e : Blackberry
+2023-04-27 22:30:23,351 : INFO : test_e2e : Received message is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-27 22:32:38,416 : INFO : test_formSubmission : email is test1@gmail.com
+2023-04-27 22:32:38,506 : INFO : test_formSubmission : name is demo1
+2023-04-27 22:32:38,555 : INFO : test_formSubmission : gender is Male
+2023-04-27 22:32:38,879 : INFO : test_formSubmission : email is test2@gmail.com
+2023-04-27 22:32:38,879 : INFO : test_formSubmission : email is test2@gmail.com
+2023-04-27 22:32:38,955 : INFO : test_formSubmission : name is demo2
+2023-04-27 22:32:38,955 : INFO : test_formSubmission : name is demo2
+2023-04-27 22:32:39,013 : INFO : test_formSubmission : gender is Female
+2023-04-27 22:32:39,013 : INFO : test_formSubmission : gender is Female
+2023-04-27 22:32:51,026 : INFO : test_e2e : Getting all card titles.......
+2023-04-27 22:32:51,049 : INFO : test_e2e : iphone X
+2023-04-27 22:32:51,056 : INFO : test_e2e : Samsung Note 8
+2023-04-27 22:32:51,066 : INFO : test_e2e : Nokia Edge
+2023-04-27 22:32:51,075 : INFO : test_e2e : Blackberry
+2023-04-27 22:32:56,855 : INFO : test_e2e : Received message is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
